@@ -30,4 +30,3 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
-<img src="https://camo.githubusercontent.com/0346ae265098b990d63e5a3b7dacd48b89d671b02a98d3fb24b0be506ac3aa2d/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d617264616c6973267265706f3d617264616c697326636f756e74436f6c6f723d253233374231453741"/>
